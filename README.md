@@ -1,4 +1,4 @@
-#Project Wiki
+# Project Wiki
 
 ## O dokumentaciji
 Dokumentacija predstavlja projekt, ki je nastal v okviru projekta v 2. letniku programa RIT UN na FERI UM. V njej so opisane projektne specifikacije, navodila za uporabo, primeri uporabe in implementirane funkcionalnosti.
