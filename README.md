@@ -9,7 +9,7 @@ Vsi deli dokumentacije so za lažjo berljivost in organiziranost razdeljeni po s
 * [Projektne specifikacije](https://github.com/ritun-camel-case/projectWiki/wiki/Projektne-specifikacije)
 * [Navodila za namestitev in prijavo v sistem](https://github.com/ritun-camel-case/projectWiki/wiki/Navodila-za-namestitev-in-prijavo-v-sistem)
 * [Ključni primeri uporabe](https://github.com/ritun-camel-case/projectWiki/wiki/Klju%C4%8Dni-primeri-uporabe)
-* [Dokumentacija izvedenih lastnosti]()
+* [Dokumentacija izvedenih lastnosti](https://github.com/ritun-camel-case/projectWiki/wiki/4.-Dokumentacija-izvedenih-lastnosti)
 
 ## Avtorji projekta
 * Luka Golčman - Vodja projekta, programer
